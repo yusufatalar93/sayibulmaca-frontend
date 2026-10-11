@@ -1,0 +1,83 @@
+{
+  "app": {
+    "title": "Sayı Bulmaca",
+    "loading": "Yükleniyor..."
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "loginWithGoogle": "Google ile devam et",
+    "email": "E-posta",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi unuttum",
+    "logout": "Çıkış"
+  },
+  "home": {
+    "play": "Oyna",
+    "digits4": "4 Basamak",
+    "digits5": "5 Basamak",
+    "fast": "Hızlı",
+    "normal": "Normal",
+    "long": "Uzun",
+    "matchHistory": "Maç Geçmişi",
+    "rating4": "4 Basamak Derecesi",
+    "rating5": "5 Basamak Derecesi"
+  },
+  "game": {
+    "yourTurn": "Senin sıran",
+    "opponentTurn": "Rakibin sırası",
+    "guess": "Tahmin",
+    "send": "Gönder",
+    "resign": "Pes Et",
+    "resignConfirm": "Pes etmek istediğine emin misin?",
+    "secretNumber": "Gizli Sayın",
+    "autoAssign": "Otomatik Ata",
+    "manualEntry": "Kendim Gireceğim",
+    "waiting": "Eşleşme bekleniyor...",
+    "cancel": "İptal",
+    "timeLeft": "Kalan Süre",
+    "finalTurn": "Son hakkın!",
+    "opponentFinalTurn": "Rakip son hakkını kullanıyor",
+    "setYourSecret": "Gizli Sayını Belirle",
+    "secretTimeout": "kalan süre"
+  },
+  "result": {
+    "won": "Kazandın!",
+    "lost": "Kaybettin",
+    "draw": "Berabere",
+    "playAgain": "Tekrar Oyna",
+    "backToHome": "Ana Ekran",
+    "opponentSecretWas": "Rakibin gizli sayısı:",
+    "yourSecretWas": "Senin gizli sayın:",
+    "reason": {
+      "SOLVED": "Sayı bulundu",
+      "TIMEOUT": "Süre doldu",
+      "RESIGN": "Pes edildi",
+      "ABORT": "Maç iptal edildi",
+      "GUESS_LIMIT": "Tahmin limitine ulaşıldı"
+    }
+  },
+  "league": {
+    "bronze": "Bronz",
+    "silver": "Gümüş",
+    "gold": "Altın",
+    "platinum": "Platin",
+    "diamond": "Elmas",
+    "master": "Usta",
+    "legend": "Efsane",
+    "BRONZE": "Bronz",
+    "SILVER": "Gümüş",
+    "GOLD": "Altın",
+    "PLATINUM": "Platin",
+    "DIAMOND": "Elmas",
+    "MASTER": "Usta",
+    "LEGEND": "Efsane"
+  },
+  "history": {
+    "noMatches": "Henüz tamamlanmış maçın yok.",
+    "won": "Kazandın",
+    "lost": "Kaybettin",
+    "draw": "Berabere",
+    "vs": "vs"
+  }
+}

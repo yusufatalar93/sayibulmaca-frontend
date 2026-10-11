@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+
+# Firebase credentials
+.env
+.env.local
